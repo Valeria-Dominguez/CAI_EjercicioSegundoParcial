@@ -1,0 +1,13 @@
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\bin\Debug\EJ.PlazoFijo.Negocio.dll
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\bin\Debug\EJ.PlazoFijo.Negocio.pdb
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\bin\Debug\EJ.PlazoFijo.Datos.dll
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\bin\Debug\EJ.PlazoFijo.Entidades.dll
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\bin\Debug\EJ.PlazoFijo.Datos.pdb
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\bin\Debug\EJ.PlazoFijo.Entidades.pdb
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\obj\Debug\EJ.PlazoFijo.Negocio.csprojAssemblyReference.cache
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\obj\Debug\EJ.PlazoFijo.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\obj\Debug\EJ.PlazoFijo.Negocio.csproj.CopyComplete
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\obj\Debug\EJ.PlazoFijo.Negocio.dll
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Negocio\obj\Debug\EJ.PlazoFijo.Negocio.pdb

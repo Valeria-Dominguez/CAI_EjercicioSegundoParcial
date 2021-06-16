@@ -1,0 +1,6 @@
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Entidades\bin\Debug\EJ.PlazoFijo.Entidades.dll
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Entidades\bin\Debug\EJ.PlazoFijo.Entidades.pdb
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Entidades\obj\Debug\EJ.PlazoFijo.Entidades.csprojAssemblyReference.cache
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Entidades\obj\Debug\EJ.PlazoFijo.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Entidades\obj\Debug\EJ.PlazoFijo.Entidades.dll
+C:\Users\Valeria\source\repos\EJ.PlazoFijo\EJ.PlazoFijo.Entidades\obj\Debug\EJ.PlazoFijo.Entidades.pdb
